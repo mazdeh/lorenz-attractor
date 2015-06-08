@@ -1,1 +1,12 @@
 
+##Lorenz Attractor
+
+A Lorenz attractor written in C for OpenGL.
+
+Key Bindings:
+'y' to zoom in.
+'h' to zoom out.
+
+#Manipulate Lorenz Paramaters:
+'+' to increase the s parameter by 1.
+'-' to decrease the s parameter by 1.
