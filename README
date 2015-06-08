@@ -1,8 +1,6 @@
 
 # Lorenz Attractor
-A modeling of the Lorenz Attractor with 50,000 points, that I probably spent about 4 hours on.
-
-A Lorenz attractor written in C for OpenGL.
+A modeling of the Lorenz Attractor with 50,000 points, that I probably spent about 4 hours on, written in C for OpenGL.
 
 ## Key Bindings:
 'y' to zoom in.
