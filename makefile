@@ -1,4 +1,4 @@
-EXE=l
+EXE=lorenz
 
 # Main target
 all: $(EXE)

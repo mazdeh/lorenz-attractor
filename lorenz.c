@@ -197,21 +197,12 @@ void key(unsigned char ch,int x,int y)
 	view_posz += 1;
 	gluLookAt(0,0,view_posz,0.0,0.0,0.0,0.0,1.0,0.0);
   }
-   
-   //  Switch dimensions
-   // else if ('1'<=ch && ch<='4')
-   // {
-   //    mode = ch-'0';
-   //    if (mode==2) z = 0;
-   //    if (mode==4) w = 1;
-   // }
-   
 
-   //  Increase w by 0.1
+   //  Increase w by 1
    if (ch == '+') {
       s += 1;
    }
-   //  Decrease w by 0.1
+   //  Decrease w by 1
    else if (ch == '-') {
    	s -= 1;
    }
