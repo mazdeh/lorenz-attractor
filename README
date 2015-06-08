@@ -1,12 +1,14 @@
 
 # Lorenz Attractor
+A modeling of the Lorenz Attractor, that I probably spent about 4 hours on.
 
 A Lorenz attractor written in C for OpenGL.
 
-Key Bindings:
+## Key Bindings:
 'y' to zoom in.
 'h' to zoom out.
 
 ## Manipulate Lorenz Paramaters:
 '+' to increase the s parameter by 1.
 '-' to decrease the s parameter by 1.
+
